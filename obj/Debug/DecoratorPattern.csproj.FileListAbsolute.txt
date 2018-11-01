@@ -1,0 +1,7 @@
+C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojAssemblyReference.cache
+C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
