@@ -8,7 +8,6 @@ C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\obj\Debug\Decorator
 C:\Git\_GitPractice\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
 C:\Git\_GitPractice\DecoratorPattern\bin\Debug\DecoratorPattern.exe
 C:\Git\_GitPractice\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
-C:\Git\_GitPractice\DecoratorPattern\obj\Debug\DecoratorPattern.csprojAssemblyReference.cache
 C:\Git\_GitPractice\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
 C:\Git\_GitPractice\DecoratorPattern\obj\Debug\DecoratorPattern.exe
 C:\Git\_GitPractice\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
