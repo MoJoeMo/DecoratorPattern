@@ -5,3 +5,9 @@ C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\obj\Debug\Decorator
 C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
 C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
 C:\VisualStudioExperiments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+C:\Git\_GitPractice\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\Git\_GitPractice\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Git\_GitPractice\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Git\_GitPractice\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Git\_GitPractice\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\Git\_GitPractice\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
